@@ -1,4 +1,7 @@
 # Codeforces AI
+
+## About Codeforces AI
+This is an AI App to get up-to-date information about recent contests on the competitive programmimg platform, Codeforces. It uses Pathway’s [LLM App](https://github.com/pathwaycom/llm-app) features to build real-time LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources, leverages OpenAI API Embeddings and Chat Completion endpoints to generate AI assistant responses.
 ## Demo
 
 https://github.com/mit-riya/codeforces_gpt/assets/95142933/90581da5-834d-4da2-8d17-a373b1e7f24c
@@ -38,6 +41,6 @@ Have 2 terminals, and in each terminal run each of the following commands
     python3 main.py
 
     streamlit run ui.py
-### Step 6: Use the UI interface to start using the tool!
+### Step 5: Use the UI interface to start using the tool!
 
 Ask away the questions related to repo or anything else that you want!
