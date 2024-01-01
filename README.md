@@ -5,3 +5,6 @@ https://github.com/mit-riya/codeforces_gpt/assets/95142933/90581da5-834d-4da2-8d
 
 ## Setup
 
+### Step 1: Clone this repo
+Clone this repo using
+    git clone https://github.com/mit-riya/codeforces_gpt
